@@ -9,9 +9,9 @@ I'm a Health Data Analytics graduate at the University of North Texas with a bac
 - **Projects**: From flight price trends to heart disease risk analysis  
 
 ## 🌟 Featured Projects
-- **[Flight Price Analysis](https://github.com/[Rakshitha-Annamreddy]/Flight-Price-Analysis)**  
+- **[Flight Price Analysis](https://github.com/Rakshitha-Annamreddy/Flight-Price-Analysis)**  
   Analyzed 10K+ flight records with Python and Tableau to optimize pricing strategies.  
-- **[Heart Disease Risk Analysis](https://github.com/[Rakshitha-Annamreddy]/Heart-Disease-Risk)**  
+- **[Heart Disease Risk Analysis](https://github.com/Rakshitha-Annamreddy/Heart-Disease-Risk-Analysis)**  
   Explored 57K records using SQL and Python to identify high-risk demographics.  
 
 ## 📫 Let’s Connect
